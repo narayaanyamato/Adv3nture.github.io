@@ -518,6 +518,14 @@ margin-bottom: 40px;
     text-align: center;
 }
 
+@media screen  and (max-width:640px){
+    .adv_blog .blog_card .card{
+    background: rgb(18,25,69);
+background: linear-gradient(90deg, rgba(18,25,69,1) 100%, rgba(145,103,166,1) 100%);
+margin-bottom: 20px;
+ height:auto;
+}
+
 
 @media screen and (max-width:700px)
 {
